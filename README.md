@@ -1,5 +1,5 @@
 
-# Ex.No:2 Develop an application that uses GUI Components with Fonts and Colors
+# Ex_02: Develop an application that uses GUI Components with Fonts and Colors
 
 
 ## AIM:
