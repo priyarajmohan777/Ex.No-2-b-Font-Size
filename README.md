@@ -11,33 +11,15 @@ Android Studio(Min. required Artic Fox)
 
 
 ## ALGORITHM:
-Step 1: Create a New Android Project:
-              • Click New in the toolbar.
-              • In the window that appears, open the Android folder, select Android Application Project,
-              and click next.
-              • Provide the application name and the project name and then finally give the desired
-              package name.
-              • Choose a launcher icon for your application and then select Blank Activity and then click
-              Next
-              • Provide the desired Activity name for your project and then click Finish.
+1. Start a new Android project by selecting *New*> *Android Application Project*, provide the app and package name, choose a launcher icon, select *Blank Activity*, name the activity, and click *Finish*.
 
-Step 2: Create a New AVD (Android Virtual Device):
-        • click Android Virtual Device Manager from the toolbar.
-        • In the Android Virtual Device Manager panel, click New.
-        • Fill in the details for the AVD. Give it a name, a platform target, an SD card size, and
-        a skin (HVGA is default).
-        • Click Create AVD and Select the new AVD from the Android Virtual Device
-        Manager and click Start.
+2. Open *Android Virtual Device Manager*, create a new AVD by providing its name, platform target, SD card size, and skin, then select and start the AVD.
 
-Step 3: Design the graphical layout with a text view and two command buttons.
+3. Design the layout with a *TextView* and two buttons for changing font size and color.
 
-Step 4: Run the application.
+4. Run the application to test it.
 
-Step 5:On pressing the change font size button, the size of the font gets altered.
-
-Step 6: On pressing the Color button, the color of the text altered.
-       
-Step 6:Close the Android project. 
+5. Use the *Change Font Size* button to adjust text size and the *Color* button to change text color, then close the project.
 
 
 ## Program:
