@@ -1,6 +1,6 @@
-
 # Ex_02: Develop an application that uses GUI Components with Fonts and Colors
 
+### DATE:
 
 ## AIM:
 To develop an application that uses GUI Components with Fonts and Colors using android studio.
